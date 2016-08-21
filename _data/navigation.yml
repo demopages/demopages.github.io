@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "Introduction to ACMS-Online"
+    url: /intro
+
+  - title: "About Us"
+    url: /about
+
+  - title: "Contact"
+    url: /contact
+
+  - title: "Login"
+    url: /login
